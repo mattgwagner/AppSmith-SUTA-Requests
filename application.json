@@ -7,6 +7,14 @@
     {
       "id": "Submit Request",
       "isDefault": false
+    },
+    {
+      "id": "My Requests",
+      "isDefault": false
+    },
+    {
+      "id": "Home",
+      "isDefault": false
     }
   ],
   "viewMode": false,
