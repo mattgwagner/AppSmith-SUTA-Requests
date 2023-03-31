@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "id": "Requests",
+      "isDefault": true
+    },
+    {
+      "id": "Submit Request",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#D9E7FF",
+  "icon": "tree",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
