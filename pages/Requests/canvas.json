@@ -531,7 +531,7 @@
                   "isDisabled": false,
                   "key": "xg6v9s0bem",
                   "isDeprecated": false,
-                  "tabName": "Current",
+                  "tabName": "Upcoming",
                   "rightColumn": 328.5,
                   "detachFromLayout": true,
                   "widgetId": "wtvw46m2qj",
@@ -989,7 +989,7 @@
               "minWidth": 450,
               "tabsObj": {
                 "tab1": {
-                  "label": "Current",
+                  "label": "Upcoming",
                   "id": "tab1",
                   "widgetId": "wtvw46m2qj",
                   "isVisible": true,
