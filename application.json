@@ -1,19 +1,19 @@
 {
   "pages": [
     {
-      "id": "Requests",
+      "id": "Home",
       "isDefault": true
-    },
-    {
-      "id": "Submit Request",
-      "isDefault": false
     },
     {
       "id": "My Requests",
       "isDefault": false
     },
     {
-      "id": "Home",
+      "id": "Submit Request",
+      "isDefault": false
+    },
+    {
+      "id": "Requests",
       "isDefault": false
     }
   ],
@@ -21,7 +21,7 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#D9E7FF",
-  "icon": "tree",
+  "icon": "book",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
